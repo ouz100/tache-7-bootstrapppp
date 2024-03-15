@@ -1,0 +1,24 @@
+body{
+    background-image: url(d.jpeg);
+}
+
+.card-body1{
+    position: relative;
+}
+.bouton{
+    position: absolute;
+    margin-top: 90px;
+    left: 95px;
+}
+/* .container1{
+    background-color: red;
+    width: 100%;
+    height: 500px;
+    opacity: 50%;
+} */
+
+.para{
+    border:2px solid #fff ;
+    align-items: center;
+    display: flex;
+}
